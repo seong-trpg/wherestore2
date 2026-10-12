@@ -1,0 +1,10 @@
+{
+  "description": "A review platform that connects restaurant owners with unlimited experience reviewers, simplifying the process of gathering authentic customer feedback.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
